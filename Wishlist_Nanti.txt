@@ -1,0 +1,3 @@
+Wishlist tahun depan:
+1) Bisa menguasai bahasa pemrograman tertentu
+2) Bisa menguasai Git dan Github
