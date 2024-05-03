@@ -2,3 +2,6 @@ Wishlist tahun depan:
 1) Bisa menguasai bahasa pemrograman tertentu
 2) Bisa menguasai Git dan Github
 3) Memahami Struktur Data Dasar
+4) Menguasai beberapa framework Javascript
+   - React
+   - Vue
