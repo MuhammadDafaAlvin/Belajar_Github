@@ -5,3 +5,4 @@ Wishlist tahun depan:
 4) Menguasai beberapa framework Javascript
    - React
    - Vue
+5) Belajar bahasa pemrograman PHP
